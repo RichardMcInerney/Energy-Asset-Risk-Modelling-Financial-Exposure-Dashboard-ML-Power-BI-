@@ -8,6 +8,9 @@ Key drivers of risk
 
 The solution is designed to move beyond raw data and support real-world decision-making, enabling stakeholders to identify high-risk assets and allocate resources effectively.
 
+<img width="1300" height="728" alt="Screenshot 2026-03-30 121108" src="https://github.com/user-attachments/assets/812a8f26-ea2b-49fa-8866-99fa6d212b48" />
+
+
 🧠 Project Architecture
 Data → Feature Engineering → ML Models → Predictions Export → Power BI Dashboard
 Python (Colab) → model development
@@ -15,6 +18,9 @@ CSV outputs → integration layer
 Power BI → business-facing analytics
 
 📊 Executive Dashboard (Power BI)
+
+<img width="1303" height="734" alt="Screenshot 2026-03-30 121457" src="https://github.com/user-attachments/assets/36b407d7-9b66-40ae-b97f-41842c7493cb" />
+
 
 Key Capabilities:
 Portfolio-level risk visibility
@@ -42,6 +48,9 @@ Predicts probability of a risk event
 Used for screening high-risk assets
 
 📉 Model Performance Dashboard
+
+<img width="1297" height="729" alt="Screenshot 2026-03-30 121514" src="https://github.com/user-attachments/assets/6efa8d33-9f42-43c9-8425-3cf44368c950" />
+
 
 Key Results:
 Metric	Value	Meaning
@@ -97,6 +106,9 @@ Larger assets = higher financial exposure
 Moderate correlation with risk score
 
 🧾 Model Outputs (CSV Files)
+
+<img width="1910" height="913" alt="Screenshot 2026-03-30 124155" src="https://github.com/user-attachments/assets/34b1ce6a-13c9-4a59-8082-0ee940388a7a" />
+
 
 Generated from the notebook:
 
