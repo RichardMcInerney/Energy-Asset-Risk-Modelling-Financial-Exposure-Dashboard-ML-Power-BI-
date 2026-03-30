@@ -217,6 +217,16 @@ It is intended to demonstrate:
 
 ---
 
+## 📈 Results Summary
+
+- Identified high‑risk assets representing £1bn in expected losses  
+- Built ML models achieving R² = 0.86 (regression)  
+- Classified high‑risk events with recall = 0.56  
+- Highlighted risk concentration in US, China, India  
+- Revealed asset age + capacity as dominant risk drivers
+
+---
+
 ## 🚀 Tools & Technologies
 
 - Python (Pandas, Scikit-learn)  
