@@ -225,6 +225,6 @@ This mirrors the exact workflow used in real‑world data analyst and ML analyst
 
 ## 🏁 Conclusion
 
-This project demonstrates a complete, scalable approach to **energy asset risk assessment**, combining machine learning with business intelligence to support **practical, data-driven decision-making**.
+This project demonstrates a complete, scalable approach to energy asset risk assessment. By combining machine learning with interactive Power BI visualisation, it transforms complex data into clear, actionable intelligence that supports risk-based decision making and resource allocation.
 
 ---
