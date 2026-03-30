@@ -130,36 +130,10 @@ Rather than forcing a single “best” model:
 
 ## 📊 Key Business Insights
 
-### 1. Financial Exposure
-
-- Highest losses concentrated in:
-  - Coal  
-  - Gas  
-  - Oil  
-
----
-
-### 2. Geographic Risk Concentration
-
-Countries with highest exposure:
-
-- United States  
-- China  
-- India  
-
----
-
-### 3. Asset Risk Distribution
-
-- Majority of assets = **Low Risk**  
-- Small subset = **High Risk (high impact)**  
-
----
-
-### 4. Capacity vs Risk
-
-- Larger assets → higher financial exposure  
-- Moderate correlation with risk score  
+Highest financial exposure is concentrated in coal, gas, and oil assets.
+Geographic risk is highest in the United States, China, and India.
+Older, high-capacity assets represent the greatest risk concentration.
+The model identifies a small subset of assets driving the majority of expected losses (£1bn total). Moderate correlation with risk score  
 
 ---
 
