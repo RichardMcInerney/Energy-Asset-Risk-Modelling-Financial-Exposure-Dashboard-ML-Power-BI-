@@ -22,6 +22,17 @@ The solution is designed to support **real-world decision-making**, enabling sta
 
 ---
 
+## 🏭 Business Problem
+
+Energy companies manage thousands of global assets with varying levels of operational, financial, and environmental risk.  
+This project answers:
+
+- Which assets pose the highest financial exposure?
+- What are the key drivers of risk?
+- How should resources be prioritised?
+
+---
+
 ## 🧠 Project Architecture
 
 Data → Feature Engineering → ML Models → Predictions Export → Power BI Dashboard
