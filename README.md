@@ -235,16 +235,6 @@ It is intended to demonstrate:
 - DAX  
 - Machine Learning (Regression + Classification)  
 
----
-
-## 📁 Project Structure
-
-/notebooks → ML model (Colab)
-/data → Processed datasets & outputs
-/dashboard → Power BI (.pbix)
-/images → Screenshots for README
-/report → Whitepaper & analysis
-
 
 ---
 
