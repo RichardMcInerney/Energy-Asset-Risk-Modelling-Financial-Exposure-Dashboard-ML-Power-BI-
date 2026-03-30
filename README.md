@@ -3,7 +3,9 @@
 This project delivers an end-to-end analytical solution for assessing and prioritising risk across global energy assets. It combines machine learning modelling (Python) with an interactive Power BI dashboard to provide clear, data-driven insights into:
 
 Asset risk levels
+
 Financial exposure
+
 Key drivers of risk
 
 The solution is designed to move beyond raw data and support real-world decision-making, enabling stakeholders to identify high-risk assets and allocate resources effectively.
