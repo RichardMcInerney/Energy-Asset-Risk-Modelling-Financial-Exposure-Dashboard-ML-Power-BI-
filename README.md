@@ -13,7 +13,9 @@ The solution is designed to move beyond raw data and support real-world decision
 <img width="1300" height="728" alt="Screenshot 2026-03-30 121108" src="https://github.com/user-attachments/assets/812a8f26-ea2b-49fa-8866-99fa6d212b48" />
 
 
+
 🧠 Project Architecture
+
 Data → Feature Engineering → ML Models → Predictions Export → Power BI Dashboard
 Python (Colab) → model development
 CSV outputs → integration layer
