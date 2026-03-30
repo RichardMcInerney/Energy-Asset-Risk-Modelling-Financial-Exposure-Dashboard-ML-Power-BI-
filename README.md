@@ -44,6 +44,16 @@ Data → Feature Engineering → ML Models → Predictions Export → Power BI D
 
 ---
 
+## 🚀 Quick Start
+
+1. Open the notebook in Google Colab  
+2. Run all cells to generate model outputs  
+3. Exported CSVs will appear in `/data/outputs`  
+4. Open the Power BI file: `Energy_Asset_&_Risk_Cost_Dashboard.pbix`  
+5. Refresh data to load the latest predictions
+
+---
+
 ## 📊 Executive Dashboard
 
 <img width="1300" height="728" alt="Screenshot 2026-03-30 121108" src="https://github.com/user-attachments/assets/e3b5dc95-1773-4082-8ca7-12060830a8ff" />
