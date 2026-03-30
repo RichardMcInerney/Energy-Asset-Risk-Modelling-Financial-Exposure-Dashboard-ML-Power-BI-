@@ -130,10 +130,13 @@ Rather than forcing a single “best” model:
 
 ## 📊 Key Business Insights
 
-Highest financial exposure is concentrated in coal, gas, and oil assets.
-Geographic risk is highest in the United States, China, and India.
-Older, high-capacity assets represent the greatest risk concentration.
-The model identifies a small subset of assets driving the majority of expected losses (£1bn total). Moderate correlation with risk score  
+1.Highest financial exposure is concentrated in coal, gas, and oil assets.
+
+2.Geographic risk is highest in the United States, China, and India.
+
+3.Older, high-capacity assets represent the greatest risk concentration.
+
+4. The model identifies a small subset of assets driving the majority of expected losses (£1bn total). Moderate correlation with risk score  
 
 ---
 
