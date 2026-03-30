@@ -17,8 +17,11 @@ The solution is designed to move beyond raw data and support real-world decision
 🧠 Project Architecture
 
 Data → Feature Engineering → ML Models → Predictions Export → Power BI Dashboard
+
 Python (Colab) → model development
+
 CSV outputs → integration layer
+
 Power BI → business-facing analytics
 
 
@@ -40,9 +43,13 @@ Interactive filtering (e.g. by country)
 📈 Key KPIs
 
 KPI	Description
+
 Total Assets (29K)	Total number of energy assets analysed
+
 Total Expected Loss (£1bn)	Estimated financial exposure across the portfolio
+
 Avg Risk Score (15.68)	Average predicted risk level (0–100 scale)
+
 Avg Claim Probability (47.56%)	Likelihood of a risk-related event
 
 ⚙️ Machine Learning Models
