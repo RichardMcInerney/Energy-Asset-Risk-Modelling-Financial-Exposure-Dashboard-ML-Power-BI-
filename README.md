@@ -249,6 +249,20 @@ This solution enables:
 
 ---
 
+## 💼 Why This Project Matters
+
+This project demonstrates my ability to deliver a full analytical workflow:
+
+- ML model development  
+- Technical documentation  
+- Business‑ready reporting  
+- Power BI dashboarding  
+- Clear communication for stakeholders  
+
+This mirrors the exact workflow used in real‑world data analyst and ML analyst roles.
+
+---
+
 ## 🏁 Conclusion
 
 This project demonstrates a complete, scalable approach to **energy asset risk assessment**, combining machine learning with business intelligence to support **practical, data-driven decision-making**.
