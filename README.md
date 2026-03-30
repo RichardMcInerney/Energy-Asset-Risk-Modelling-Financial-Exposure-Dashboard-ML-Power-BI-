@@ -57,11 +57,17 @@ Avg Claim Probability (47.56%)	Likelihood of a risk-related event
 Two complementary models were developed:
 
 🔹 Regression Model (Risk Scoring)
+
 Predicts continuous Risk Score (0–100)
+
 Used for ranking and prioritisation
+
 🔹 Classification Model (Risk Detection)
+
 Predicts probability of a risk event
+
 Used for screening high-risk assets
+
 
 📉 Model Performance Dashboard
 
@@ -69,56 +75,86 @@ Used for screening high-risk assets
 
 
 Key Results:
+
 Metric	Value	Meaning
+
 R² = 0.86	Strong predictive accuracy	
+
 RMSE = 4.34	Low prediction error	
+
 ROC AUC = 0.65	Moderate classification capability	
+
 Recall = 0.56	Detects over half of high-risk cases	
+
 
 🧠 Model Selection Strategy
 
 Rather than forcing a single “best” model:
 
 Gradient Boosting → best for risk scoring (regression)
+
 Random Forest → slightly better for classification
+
 
 👉 Final approach:
 
 Gradient Boosting is used as the primary model for risk scoring, with Random Forest supporting classification-based screening
 
+
 🔎 Risk Drivers Analysis
 
 Top Drivers of Risk:
+
 Asset Age
+
 Capacity × Age interaction
+
 Capacity (MW)
-Fuel volatility
+
+uel volatility
+
 Legacy asset indicators
 
 👉 Insight:
 
 Older, high-capacity assets present the greatest risk concentration.
 
+
+
 📊 Key Business Insights
 
 1. Financial Exposure
+
 Highest losses concentrated in:
+
 Coal
+
 Gas
+
 Oil
+
 2. Geographic Risk Concentration
+
 Countries like:
+
 United States
+
 China
+
 India
 
 show the highest exposure levels.
 
 3. Asset Risk Distribution
+
 Majority = Low Risk
+
 Small subset = High Impact / High Priority
+
 4. Capacity vs Risk Relationship
+
 Larger assets = higher financial exposure
+
 Moderate correlation with risk score
 
 🧾 Model Outputs (CSV Files)
