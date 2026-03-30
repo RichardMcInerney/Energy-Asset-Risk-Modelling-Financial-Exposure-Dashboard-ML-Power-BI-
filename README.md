@@ -4,21 +4,7 @@
 
 ## 🔍 Overview
 
-This project delivers an **end-to-end analytical solution** for assessing and prioritising risk across global energy assets.
-
-It combines:
-
-- Machine Learning (Python / Google Colab)  
-- Financial exposure modelling  
-- Interactive Power BI dashboard  
-
-to provide clear, data-driven insights into:
-
-- Asset risk levels  
-- Financial exposure  
-- Key drivers of risk  
-
-The solution is designed to support **real-world decision-making**, enabling stakeholders to identify high-risk assets and allocate resources effectively.
+This project delivers an end-to-end analytical solution for assessing financial and operational risk across a global portfolio of energy assets. It combines machine learning predictions with an interactive Power BI dashboard to help stakeholders identify high-risk assets, quantify financial exposure, and prioritise mitigation efforts.
 
 ---
 
