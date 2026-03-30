@@ -21,15 +21,20 @@ Python (Colab) → model development
 CSV outputs → integration layer
 Power BI → business-facing analytics
 
+
 📊 Executive Dashboard (Power BI)
 
 <img width="1303" height="734" alt="Screenshot 2026-03-30 121457" src="https://github.com/user-attachments/assets/36b407d7-9b66-40ae-b97f-41842c7493cb" />
 
 
 Key Capabilities:
+
 Portfolio-level risk visibility
+
 Financial exposure by fuel type and geography
+
 Asset-level risk distribution
+
 Interactive filtering (e.g. by country)
 
 📈 Key KPIs
