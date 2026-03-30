@@ -35,7 +35,8 @@ Data → Feature Engineering → ML Models → Predictions Export → Power BI D
 
 ## 📊 Executive Dashboard
 
-![Executive Overview](images/dashboard_overview.png)
+<img width="1300" height="728" alt="Screenshot 2026-03-30 121108" src="https://github.com/user-attachments/assets/e3b5dc95-1773-4082-8ca7-12060830a8ff" />
+
 
 ### Key Capabilities
 
@@ -73,7 +74,8 @@ Two complementary models were developed:
 
 ## 📉 Model Performance
 
-![Model Performance](images/model_performance.png)
+<img width="1303" height="734" alt="Screenshot 2026-03-30 121457" src="https://github.com/user-attachments/assets/60318b81-3448-47a7-9012-5eba89062639" />
+
 
 ### Key Results
 
@@ -102,7 +104,8 @@ Rather than forcing a single “best” model:
 
 ## 🔎 Risk Drivers Analysis
 
-![Risk Drivers](images/risk_drivers.png)
+<img width="1297" height="729" alt="Screenshot 2026-03-30 121514" src="https://github.com/user-attachments/assets/c4f67f67-4be3-4fad-8987-9621b1e517e2" />
+
 
 ### Key Drivers of Risk
 
@@ -168,7 +171,8 @@ Generated from the notebook:
 
 ## 🧪 Notebook & Pipeline
 
-![Notebook Output](images/notebook_output.png)
+<img width="1910" height="913" alt="Screenshot 2026-03-30 124155" src="https://github.com/user-attachments/assets/9df42007-f24a-48f0-8adb-7c626c3cd969" />
+
 
 ### Features
 
